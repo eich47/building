@@ -21,3 +21,8 @@
 .name-site .h1{
     font-size: 48px;
 }
+
+/*блок доставка*/
+.delivery-item .image{
+    width: 48px;
+}
