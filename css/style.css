@@ -1,0 +1,15 @@
+/*global*/
+.bg-black{
+    background-color: #000000;
+}
+
+/*navbar*/
+.menu .nav-item{
+    font-size: 14px;
+}
+
+@media (min-width: 1200px) {
+    .menu .nav-item{
+        font-size: 16px;
+    }
+}
