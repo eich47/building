@@ -60,3 +60,17 @@
         background-size: auto;
     }
 }
+
+/*карусель с отзывами*/
+#voidId.carousel{
+    background-color: #F6F8F9;
+}
+#voidId .carousel-indicators li{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: #4e555b;
+}
+#voidId .carousel-indicators .active {
+    background-color: #005cbf;
+}
