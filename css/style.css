@@ -34,7 +34,9 @@
 
 /*блок доставка*/
 .delivery-item .image{
-    width: 48px;
+    flex-basis: 48px;
+    flex-grow: 0;
+    flex-shrink: 0;
 }
 
 /*блок надежность*/
