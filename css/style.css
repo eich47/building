@@ -35,3 +35,28 @@
 .save-info .row {
     background-color: #F6F8F9;
 }
+/*программное обеспечение*/
+.soft {
+    background-color: #212B31;
+    padding-top: 145px;
+    padding-bottom: 118px;
+}
+
+@media (min-width: 768px) {
+    .soft {
+        background: url("/image/soft/soft_bg.png") right 145px no-repeat #212B31;
+        background-size: 350px;
+    }
+}
+@media (min-width: 992px) {
+    .soft {
+        background: url("/image/soft/soft_bg.png") right 145px no-repeat #212B31;
+        background-size: 500px;
+    }
+}
+@media (min-width: 1200px) {
+    .soft {
+        background: url("/image/soft/soft_bg.png") right 145px no-repeat #212B31;
+        background-size: auto;
+    }
+}
