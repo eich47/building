@@ -45,6 +45,13 @@
 .save-info .row {
     background-color: #F6F8F9;
 }
+.save .title::after{
+    position: absolute;
+    content: url("/image/save/rose.png");
+    top: -18px;
+    right: -36px;
+
+}
 /*программное обеспечение*/
 .soft {
     background-color: #212B31;
