@@ -74,3 +74,8 @@
 #voidId .carousel-indicators .active {
     background-color: #005cbf;
 }
+
+/*нижнее меню*/
+.bottom-menu address a{
+    color: #6c757d;
+}
