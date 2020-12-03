@@ -26,3 +26,12 @@
 .delivery-item .image{
     width: 48px;
 }
+
+/*блок надежность*/
+.save-info{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.save-info .row {
+    background-color: #F6F8F9;
+}
